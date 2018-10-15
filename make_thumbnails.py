@@ -4,9 +4,10 @@ from glob import glob
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("folder", type=int)
+parser.add_argument("year", type=int)
 args = parser.parse_args()
-folder = args.folder
+
+folder = args.year
 filenames = glob("%s/*" % folder)
 
 for filename in filenames:

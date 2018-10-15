@@ -41,6 +41,27 @@ Gallery
     }
     </style>
 
+.. figure:: thumbnails/2018_entry3.png
+   :target: ./2018/entry3/index.html
+
+   2018 - first place
+
+
+.. figure:: thumbnails/2018_entry19.png
+   :target: ./2018/entry19/index.html
+
+   2018 - second place
+
+.. figure:: thumbnails/2018_entry30.png
+   :target: ./2018/entry30/index.html
+
+   2018 - third place
+
+.. figure:: thumbnails/2018_entry31.png
+   :target: ./2018/entry31/index.html
+
+   2018 - honorable mention
+
 
 .. figure:: thumbnails/2015_entry18.png
    :target: ./2015/entry18/index.html
