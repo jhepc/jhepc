@@ -41,6 +41,35 @@ Gallery
     }
     </style>
 
+
+.. figure:: thumbnails/2019_entry_33.png
+   :target: ./2019/entry_33/index.html
+
+   2019 - first place
+
+.. figure:: thumbnails/2019_entry_9.png
+   :target: ./2019/entry_9/index.html
+
+   2019 - second place
+
+
+.. figure:: thumbnails/2019_entry_27.png
+   :target: ./2019/entry_27/index.html
+
+   2019 - third place
+
+
+.. figure:: thumbnails/2019_entry_14.png
+   :target: ./2019/entry_14/index.html
+
+   2019 - Honorable mention
+
+.. figure:: thumbnails/2019_entry_36.png
+   :target: ./2019/entry_36/index.html
+
+   2019 - Honorable mention
+
+
 .. figure:: thumbnails/2018_entry3.png
    :target: ./2018/entry3/index.html
 

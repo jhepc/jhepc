@@ -15,10 +15,69 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
 
+.. 2019 entries
 
 .. raw:: html
 
       <div class="item active white">
+        <div class="carousel-image">
+
+.. image:: carousel/2019_entry33.png
+   :target: 2019/entry_33/index.html
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2019</h2>
+          <h3>First place</h3>
+        </div>
+      </div>
+
+
+
+.. raw:: html
+
+      <div class="item white">
+        <div class="carousel-image">
+
+.. image:: carousel/2019_entry9.jpg
+   :target: 2019/entry_9/index.html
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2019</h2>
+          <h3>Second place</h3>
+        </div>
+      </div>
+
+
+.. raw:: html
+
+      <div class="item white">
+        <div class="carousel-image">
+
+.. image:: carousel/2019_entry27.png
+   :target: 2019/entry_27/index.html
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2019</h2>
+          <h3>Third place</h3>
+        </div>
+      </div>
+
+
+.. 2018 entries
+
+
+.. raw:: html
+
+      <div class="item white">
         <div class="carousel-image">
 
 .. image:: carousel/2018_entry3.png
