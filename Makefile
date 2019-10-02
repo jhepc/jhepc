@@ -23,6 +23,9 @@ thumbnails:
 	python make_thumbnails.py 2013
 	python make_thumbnails.py 2014
 	python make_thumbnails.py 2015
+	python make_thumbnails.py 2018
+	python make_thumbnails.py 2019
+
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
