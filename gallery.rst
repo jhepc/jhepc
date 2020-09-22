@@ -42,6 +42,34 @@ Gallery
     </style>
 
 
+.. figure:: thumbnails/2020_entry_6.png
+   :target: ./2020/entry_6/index.html
+
+   2020 - first place
+
+
+.. figure:: thumbnails/2020_entry_24.png
+   :target: ./2020/entry_24/index.html
+
+   2020 - second place
+
+
+.. figure:: thumbnails/2020_entry_30.png
+   :target: ./2020/entry_30/index.html
+
+   2020 - third place
+
+.. figure:: thumbnails/2020_entry_11.png
+   :target: ./2020/entry_11/index.html
+
+   2020 - honorable mention
+
+.. figure:: thumbnails/2020_entry_53.png
+   :target: ./2020/entry_53/index.html
+
+   2020 - honorable mention
+
+
 .. figure:: thumbnails/2019_entry_33.png
    :target: ./2019/entry_33/index.html
 

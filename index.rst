@@ -15,11 +15,77 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
 
-.. 2019 entries
+
+.. 2020 entries
 
 .. raw:: html
 
       <div class="item active white">
+        <div class="carousel-image">
+
+
+.. image:: carousel/2020_entry_6.png
+   :target: 2020/entry_6/index.html
+
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2020</h2>
+          <h3>First place</h3>
+        </div>
+      </div>
+
+
+.. raw:: html
+
+      <div class="item white">
+        <div class="carousel-image">
+
+
+.. image:: carousel/2020_entry_24.png
+   :target: 2020/entry_24/index.html
+
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2020</h2>
+          <h3>Second place</h3>
+        </div>
+      </div>
+
+
+.. raw:: html
+
+      <div class="item black">
+        <div class="carousel-image">
+
+
+.. image:: carousel/2020_entry_30.png
+   :target: 2020/entry_30/index.html
+
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2020</h2>
+          <h3>Third place</h3>
+        </div>
+      </div>
+
+
+
+
+
+.. 2019 entries
+
+.. raw:: html
+
+      <div class="item white">
         <div class="carousel-image">
 
 .. image:: carousel/2019_entry33.png
